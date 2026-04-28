@@ -17,6 +17,6 @@
 
 ### Installation
 ```bash
-git clone [https://github.com/Kartikkenche/BugReconPro.git](https://github.com/Kartikkenche/BugRecon-Pro.git)
+git clone https://github.com/Kartikkenche/BugReconPro.git
 cd BugRecon-Pro
 pip install -r requirements.txt
