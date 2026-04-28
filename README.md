@@ -20,3 +20,7 @@
 git clone https://github.com/Kartikkenche/BugReconPro.git
 cd BugRecon-Pro
 pip install -r requirements.txt
+
+### Usage
+Bash
+python bugrecon.py -d target.com
