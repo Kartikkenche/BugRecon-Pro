@@ -1,2 +1,22 @@
-# BugRecon-Pro
-BugRecon Pro is a specialized security toolkit designed to automate the initial phases of Vulnerability Assessment and Penetration Testing (VAPT). By integrating high-speed discovery modules with a streamlined Python-based pipeline, it allows security researchers to move from a single root domain to a comprehensive attack surface
+# BugRecon Pro 🚀
+
+**BugRecon Pro** is a Python-based reconnaissance toolkit designed to automate the discovery phase of bug hunting and VAPT. It transforms a single domain into a comprehensive attack surface map.
+
+## ✨ Features
+* **Recursive Subdomain Enumeration:** Finds hidden assets using active and passive methods.
+* **Service & Port Mapping:** Identifies running services and potential entry points.
+* **Asynchronous Execution:** Optimized for speed using Python's concurrent modules.
+* **Vulnerability Scanning:** Modular detection for common misconfigurations.
+* **Clean Reporting:** Saves actionable data for further analysis.
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Python 3.x
+- pip
+
+### Installation
+```bash
+git clone [https://github.com/Kartikkenche/BugReconPro.git](https://github.com/Kartikkenche/BugRecon-Pro.git)
+cd BugRecon-Pro
+pip install -r requirements.txt
